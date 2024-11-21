@@ -1,5 +1,6 @@
 # emprestimo-microservice
-Este projeto é um microserviço de gerenciamento de empréstimos desenvolvido em Java com Spring Boot. Ele inclui operações de CRUD para pessoas e empréstimos, validações de identificadores e integração com Kafka para mensagens assíncronas.
+Este projeto é um microserviço de gerenciamento de empréstimos desenvolvido em Java com Spring Boot. Ele inclui operações de CRUD para pessoas e empréstimos, validações de identificadores e integração com Kafka.
+
 
 ## Link para analisar o system design
 https://excalidraw.com/#json=JzVtjeFzkjUte7LjAIjY3,9s98r-DwyxZjnMMQuuP2Ew
